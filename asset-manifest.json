@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BrainerHub/static/css/main.073c9b0a.css",
+    "main.js": "/BrainerHub/static/js/main.32290d1a.js",
+    "index.html": "/BrainerHub/index.html",
+    "main.073c9b0a.css.map": "/BrainerHub/static/css/main.073c9b0a.css.map",
+    "main.32290d1a.js.map": "/BrainerHub/static/js/main.32290d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32290d1a.js"
+  ]
+}
